@@ -1,7 +1,7 @@
 # fishing-minigame
 FiveM Fishing Minigame inspired by Stardew Valley
 
--- Example usage: 
+# Example usage
 RegisterCommand("fish", function()
     exports["fishing-minigame"]:startFishing("hard", function(success)
         if success then
