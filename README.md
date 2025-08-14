@@ -11,3 +11,5 @@ FiveM Fishing Minigame inspired by Stardew Valley
             end
         end)
     end)
+
+<img width="171" height="608" alt="image" src="https://github.com/user-attachments/assets/03989d6d-d296-4f82-a786-f0f292c7f3f3" />
